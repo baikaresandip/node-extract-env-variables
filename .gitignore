@@ -1,0 +1,16 @@
+# Environment Configuration
+.env
+.env.local
+.env.dev
+.env.development
+.env.stage
+.env.staging
+.env.production
+.env.prod
+
+# Dependency directory
+node_modules
+
+# Logs
+logs
+*.log
